@@ -117,7 +117,7 @@ function listGenre(genre){
   
   }else{
     
-    const ninguno = 'No hemos encontrado este genero musical, puedes pedirme los generos de música que puedo reproducir, solo tienes que decirme; generos de musica.';
+    const ninguno = 'No hemos encontrado este genero musical, puedes pedirme los nombres de música disponible, con el siguiente comando; generos musicales.';
     return ninguno;
   
   }
