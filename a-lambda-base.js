@@ -82,37 +82,37 @@ function listGenre(genre){
   if(genre === 'alternativa'){
     
     
-    const alternativa = "<audio src='https://s3.amazonaws.com/alexa-projects/you.mp3'/>"; //CHANGE FILE LINK
+    const alternativa = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return alternativa;
   
   }else if(genre === 'rap'){
     
-    const rap = 'Música rap';
+    const rap = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return rap;
   
   }else if(genre === 'pop'){
     
-    const pop = 'Música pop';
+    const pop = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return pop;
   
   }else if(genre === 'blues'){
     
-    const blues = 'Música blues';
+    const blues = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return blues;
   
   }else if(genre === 'salsa'){
     
-    const salsa = 'Música salsa';
+    const salsa = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return salsa;
   
   }else if(genre === 'rock and roll'){
     
-    const rockandroll = 'Música rock and roll';
+    const rockandroll = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return rockandroll;
   
   }else if(genre === 'electronica'){
     
-    const electronica = 'Música electrónica';
+    const electronica = "<audio src='--LINK STREAM--'/>"; //CHANGE SRC LINK
     return electronica;
   
   }else{
@@ -125,7 +125,7 @@ function listGenre(genre){
   // Add more stream audio
   
   /*else if(genre === ' **GENRE** '){
-      const electronica = "<audio src='https://s3.amazonaws.com/alexa-projects/you.mp3'/>"; //CHANGE FILE LINK
+      const electronica = "<audio src='--LINK STREAM--'/>"; //CHANGE FILE LINK
       return electronica;
     }*/
 
