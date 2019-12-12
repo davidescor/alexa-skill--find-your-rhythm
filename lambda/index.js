@@ -7,7 +7,7 @@ const Alexa = require('ask-sdk');
 const startVoice = 'Abriendo Skill, buscando tu ritmo. Que tipo de género musical quieres escuchar?';
 
 
-const helpGame = 'Puedes encontrar estos generos musicales, por ejemplo; alternativa, rap, pop, blues, salsa, rock and roll, electrónica. Cual te gustaría escuchar?';
+const helpGame = 'Puedes encontrar estos géneros musicales, por ejemplo; alternativa, rap, pop, blues, salsa, rock and roll, electrónica. ¿Cual te gustaría escuchar?';
 
 
 const GetNewFactHandler = {
