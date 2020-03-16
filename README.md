@@ -1,4 +1,7 @@
-![alexa-skill-busca-tu-ritmo](http://davidespier.com/img/alexa/buscaturitmo.png)
+<p align="center">
+  <img src="http://davidespier.com/img/alexa/buscaturitmo.png">
+</p>
+
 
 # alexa-skill-busca-tu-ritmo
 Skill for alexa, who plays different radios depending on the musical genre chosen. Doesn't include stations link.
