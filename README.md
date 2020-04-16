@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://davidespier.com/img/alexa/buscaturitmo.png">
+  <img src="http://davidespier.com/github/buscaturitmo.png">
 </p>
 
 
