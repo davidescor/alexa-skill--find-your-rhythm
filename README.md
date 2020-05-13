@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://davidespier.com/github/buscaturitmo.png" weight="200" width="200">
+  <img src="http://davidespier.com/github/ritmo-alexa/buscaturitmo.png" weight="200" width="200">
 </p>
 
 # alexa-skill-busca-tu-ritmo
