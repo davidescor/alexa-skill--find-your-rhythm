@@ -19,9 +19,9 @@ Skill for alexa, who plays different radios depending on the musical genre chose
 3. Add the radios depending on the musical genre in the url provided in 'Lambda / index.js'.
 
 
-## Website project
+## Github project
 
-[https://github.com/davidespier/alexa-skill-busca-tu-ritmo](https://github.com/davidespier/alexa-skill-busca-tu-ritmo)
+[Github](https://github.com/davidespier/alexa-skill-busca-tu-ritmo)
 
 
 ## Authors
