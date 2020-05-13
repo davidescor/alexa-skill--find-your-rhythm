@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="http://davidespier.com/github/buscaturitmo.png">
+  <img src="http://davidespier.com/github/buscaturitmo.png" weight="200" width="200">
 </p>
-
 
 # alexa-skill-busca-tu-ritmo
 Skill for alexa, who plays different radios depending on the musical genre chosen. Doesn't include stations link.
